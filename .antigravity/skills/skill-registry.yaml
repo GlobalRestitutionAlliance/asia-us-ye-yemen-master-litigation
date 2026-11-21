@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: yemenan-restitution-roadmap-and-qsf-trust-execution
-  name: Yemenan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/yemenan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_ye_001
+    name: Yemen Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_002
+    name: Yemen Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_003
+    name: Yemen Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_004
+    name: Yemen Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_005
+    name: Yemen Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_006
+    name: Yemen Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_007
+    name: Yemen Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_008
+    name: Yemen Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_009
+    name: Yemen Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_010
+    name: Yemen Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_011
+    name: Yemen Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_012
+    name: Yemen Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_013
+    name: Yemen Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_014
+    name: Yemen Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_015
+    name: Yemen Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_016
+    name: Yemen Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_017
+    name: Yemen Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_018
+    name: Yemen Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_019
+    name: Yemen Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_020
+    name: Yemen Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_021
+    name: Yemen Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_022
+    name: Yemen Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_023
+    name: Yemen Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_024
+    name: Yemen Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_025
+    name: Yemen Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_026
+    name: Yemen Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_027
+    name: Yemen Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_028
+    name: Yemen Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_029
+    name: Yemen Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_030
+    name: Yemen Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_031
+    name: Yemen Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_032
+    name: Yemen Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_033
+    name: Yemen Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_034
+    name: Yemen Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_035
+    name: Yemen Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_036
+    name: Yemen Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_037
+    name: Yemen Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_038
+    name: Yemen Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_039
+    name: Yemen Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_040
+    name: Yemen Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_041
+    name: Yemen Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_042
+    name: Yemen Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_043
+    name: Yemen Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_044
+    name: Yemen Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_045
+    name: Yemen Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_046
+    name: Yemen Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_047
+    name: Yemen Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_048
+    name: Yemen Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_049
+    name: Yemen Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_050
+    name: Yemen Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_051
+    name: Yemen Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_052
+    name: Yemen Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_053
+    name: Yemen Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_054
+    name: Yemen Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_055
+    name: Yemen Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_056
+    name: Yemen Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_057
+    name: Yemen Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_058
+    name: Yemen Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_059
+    name: Yemen Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_060
+    name: Yemen Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_061
+    name: Yemen Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_062
+    name: Yemen Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_063
+    name: Yemen Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_064
+    name: Yemen Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_065
+    name: Yemen Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_066
+    name: Yemen Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_067
+    name: Yemen Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_068
+    name: Yemen Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_069
+    name: Yemen Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_070
+    name: Yemen Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_071
+    name: Yemen Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_072
+    name: Yemen Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_073
+    name: Yemen Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_074
+    name: Yemen Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_075
+    name: Yemen Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_076
+    name: Yemen Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_077
+    name: Yemen Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_078
+    name: Yemen Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_079
+    name: Yemen Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_080
+    name: Yemen Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_081
+    name: Yemen Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_082
+    name: Yemen Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_083
+    name: Yemen Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_084
+    name: Yemen Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_085
+    name: Yemen Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_086
+    name: Yemen Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_087
+    name: Yemen Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_088
+    name: Yemen Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_089
+    name: Yemen Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_090
+    name: Yemen Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_091
+    name: Yemen Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_092
+    name: Yemen Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_093
+    name: Yemen Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_094
+    name: Yemen Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_095
+    name: Yemen Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_096
+    name: Yemen Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_097
+    name: Yemen Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_098
+    name: Yemen Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_099
+    name: Yemen Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_100
+    name: Yemen Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_101
+    name: Yemen Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_102
+    name: Yemen Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_103
+    name: Yemen Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_104
+    name: Yemen Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_105
+    name: Yemen Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_106
+    name: Yemen Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_107
+    name: Yemen Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_108
+    name: Yemen Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_109
+    name: Yemen Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_110
+    name: Yemen Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_111
+    name: Yemen Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_112
+    name: Yemen Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_113
+    name: Yemen Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_114
+    name: Yemen Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_115
+    name: Yemen Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_116
+    name: Yemen Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_117
+    name: Yemen Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_118
+    name: Yemen Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_119
+    name: Yemen Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_120
+    name: Yemen Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_121
+    name: Yemen Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_122
+    name: Yemen Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_123
+    name: Yemen Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_124
+    name: Yemen Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_125
+    name: Yemen Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_126
+    name: Yemen Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_127
+    name: Yemen Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_128
+    name: Yemen Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_129
+    name: Yemen Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_130
+    name: Yemen Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_131
+    name: Yemen Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_132
+    name: Yemen Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_133
+    name: Yemen Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_134
+    name: Yemen Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_135
+    name: Yemen Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_136
+    name: Yemen Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_137
+    name: Yemen Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_138
+    name: Yemen Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_139
+    name: Yemen Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_140
+    name: Yemen Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_141
+    name: Yemen Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_142
+    name: Yemen Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_143
+    name: Yemen Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_144
+    name: Yemen Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_145
+    name: Yemen Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_146
+    name: Yemen Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_147
+    name: Yemen Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_148
+    name: Yemen Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_149
+    name: Yemen Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_150
+    name: Yemen Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_151
+    name: Yemen Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_152
+    name: Yemen Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_153
+    name: Yemen Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_154
+    name: Yemen Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_155
+    name: Yemen Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_156
+    name: Yemen Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_157
+    name: Yemen Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_158
+    name: Yemen Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_159
+    name: Yemen Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_160
+    name: Yemen Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_161
+    name: Yemen Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_162
+    name: Yemen Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_163
+    name: Yemen Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_164
+    name: Yemen Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_165
+    name: Yemen Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_166
+    name: Yemen Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_167
+    name: Yemen Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_168
+    name: Yemen Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_169
+    name: Yemen Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_170
+    name: Yemen Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_171
+    name: Yemen Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_172
+    name: Yemen Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_173
+    name: Yemen Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_174
+    name: Yemen Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_175
+    name: Yemen Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_176
+    name: Yemen Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_177
+    name: Yemen Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_178
+    name: Yemen Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_179
+    name: Yemen Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_180
+    name: Yemen Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_181
+    name: Yemen Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_182
+    name: Yemen Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_183
+    name: Yemen Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_184
+    name: Yemen Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_185
+    name: Yemen Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_186
+    name: Yemen Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_187
+    name: Yemen Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_188
+    name: Yemen Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_189
+    name: Yemen Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_190
+    name: Yemen Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_191
+    name: Yemen Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_192
+    name: Yemen Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_193
+    name: Yemen Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_194
+    name: Yemen Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_195
+    name: Yemen Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_196
+    name: Yemen Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_197
+    name: Yemen Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_198
+    name: Yemen Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_199
+    name: Yemen Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_200
+    name: Yemen Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_201
+    name: Yemen Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_202
+    name: Yemen Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_203
+    name: Yemen Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_204
+    name: Yemen Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_205
+    name: Yemen Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_206
+    name: Yemen Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_207
+    name: Yemen Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_208
+    name: Yemen Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_209
+    name: Yemen Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_210
+    name: Yemen Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_211
+    name: Yemen Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_212
+    name: Yemen Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_213
+    name: Yemen Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_214
+    name: Yemen Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_215
+    name: Yemen Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_216
+    name: Yemen Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_217
+    name: Yemen Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_218
+    name: Yemen Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_219
+    name: Yemen Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_220
+    name: Yemen Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_221
+    name: Yemen Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_222
+    name: Yemen Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_223
+    name: Yemen Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_224
+    name: Yemen Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_225
+    name: Yemen Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_226
+    name: Yemen Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_227
+    name: Yemen Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_228
+    name: Yemen Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_229
+    name: Yemen Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_230
+    name: Yemen Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_231
+    name: Yemen Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_232
+    name: Yemen Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_233
+    name: Yemen Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_234
+    name: Yemen Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_235
+    name: Yemen Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_236
+    name: Yemen Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_237
+    name: Yemen Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_238
+    name: Yemen Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_239
+    name: Yemen Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_240
+    name: Yemen Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_241
+    name: Yemen Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_242
+    name: Yemen Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_243
+    name: Yemen Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_244
+    name: Yemen Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_245
+    name: Yemen Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_246
+    name: Yemen Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_247
+    name: Yemen Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_248
+    name: Yemen Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_249
+    name: Yemen Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_250
+    name: Yemen Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_251
+    name: Yemen Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_ye_252
+    name: Yemen Skill 252
+    status: ACTIVE_SCAFFOLD
