@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/yemen/",
+  "final_url": "https://www.amnesty.org/en/location/middle-east-and-north-africa/middle-east/yemen/",
+  "title": "Amnesty - Yemen",
+  "fetched_at": "2026-11-23T15:27:38.946213Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 97430,
+  "sha256": "3762bb4706cab0ec8c9c2b3433510297442e855a691fb0c551a7281d6bb8e345",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
